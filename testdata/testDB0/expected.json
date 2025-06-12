@@ -1,0 +1,38 @@
+{
+	"baseurl" : "file:///home/mb/gits/bargue/output",
+
+	"title" : {
+		"en" : "Charles Bargue's drawing course",
+		"fr" : "Cours de dessin de Charles Bargue"
+	},
+
+	"description" : {
+		"en" : "Charles Bargue's drawing course",
+		"fr" : "Cours de dessin de Charles Bargue"
+	},
+
+	"urls": {
+		"bargue.mbivert.com/fr" : {
+			"url"   : "https://bargue.mbivert.com/fr",
+			"title" : "Cours de dessin de Charles Bargue"
+		},
+		"bargue.mbivert.com" : {
+			"url"   : "https://bargue.mbivert.com/",
+			"title" : "Charles Bargue's drawing course"
+		}
+	},
+
+	"imgs": {
+		"bargue-cover-2011": {
+			"file"   : "imgs/bargue-cover-fr-2011.jpg",
+			"author" : "charles-bargue",
+			"descrs" : {
+				"en" : "Charles Bargue's drawing course's cover",
+				"fr" : "Cours de dessin de Charles Bargue, couverture"
+			},
+			"urls"   : {
+				"amazon.fr/dp/286770202X" : "https://www.amazon.fr/dp/286770202X"
+			}
+		}
+	}
+}
